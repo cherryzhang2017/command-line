@@ -4,3 +4,5 @@ cd .. uper level file
 mkdir make a folder
 git init creat git reposertry
 code . open visual studio code
+git add . to add file to git reposertry
+git commit -m 'nth commit'
