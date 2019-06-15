@@ -1,0 +1,6 @@
+ls list 
+cd change direction
+cd .. uper level file
+mkdir make a folder
+git init creat git reposertry
+code . open visual studio code
